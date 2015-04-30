@@ -13,6 +13,7 @@
 * multicursor (cmd+left mouse button (lmb), alt+lmb drag, cmd+d)
 * word-wrap, reindent lines (comments set indent. level)
 * moving cursor with alt+direction, cmd+direction
+* use auto-complete! type in the first letters from a variable name and sublime will suggest it; press enter to auto-complete!
 
 #### Misc
 * terminal tabs & testing with terminal (I like to build things in small chunks before incorporating them into the program as a whole)!!
