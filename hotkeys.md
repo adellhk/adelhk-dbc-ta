@@ -5,11 +5,11 @@
 * moving windows with spectacles (cmd + option + modifier)
 * **cmd + ~** (swap between different windows of an application)
 * **cmd + shift + bracket** (swap between tabs in sublime, terminal, chrome. Use left bracket to go left, right bracket to go to the right)
-* **cmd + enter** (insert a line below where the cursor is without moving whatever text may be to the right of the cursor (prevents having to go all the way to the right of a line before pressint enter))
-* **cmd + shift + enter** (insert a line above where the cursor is)
 
 #### Sublime
-* sublime panes
+* **cmd + enter** (insert a line below where the cursor is without moving whatever text may be to the right of the cursor (prevents having to go all the way to the right of a line before pressint enter))
+* **cmd + shift + enter** (insert a line above where the cursor is)
+* sublime panes (within layout, cmd+option+number)
 * multicursor (cmd+left mouse button (lmb), alt+lmb drag, cmd+d)
 * word-wrap, reindent lines (comments set indent. level)
 * moving cursor with alt+direction, cmd+direction
